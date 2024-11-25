@@ -1,0 +1,10 @@
+{
+  "86E6106291C641969E9C82A6": {
+    "path": "/Users/bnelson/tools/assets/App_Resources/iOS/src",
+    "name": "NSNativeSources"
+  },
+  "5D300A9EE72C44FB84DCB045": {
+    "path": "/Users/bnelson/PersonalDev/simpletip/node_modules/@nativescript/core/platforms/ios/src",
+    "name": "@nativescript/core"
+  }
+}
