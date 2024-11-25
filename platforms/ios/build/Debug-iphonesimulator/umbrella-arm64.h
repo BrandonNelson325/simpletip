@@ -459,4 +459,4 @@
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator17.5.sdk/System/Library/Frameworks/CoreTransferable.framework/Headers/CoreTransferable.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator17.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator17.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIFilterBuiltins.h"
-#import "/Users/bnelson/Library/Developer/Xcode/DerivedData/simpletip-dwcbpeklqocofpcwcmsfnunccguh/Build/Intermediates.noindex/simpletip.build/Debug-iphonesimulator/simpletip.build/Objects-normal/x86_64/simpletip-Swift.h"
+#import "/Users/bnelson/Library/Developer/Xcode/DerivedData/simpletip-dwcbpeklqocofpcwcmsfnunccguh/Build/Intermediates.noindex/simpletip.build/Debug-iphonesimulator/simpletip.build/Objects-normal/arm64/simpletip-Swift.h"
